@@ -14,7 +14,7 @@ Jika kita menekan tombol 'Get Your Fortune Cookies' maka tampilan akan berubah m
 
 ![Foresty Hacker Class - Google Chrome 15_06_2023 15_02_56](https://github.com/mirandadewi/CTF-Write-Up/assets/136687271/6c8d988c-36d8-4341-9aca-d445156b28b1)
 
-Mari lihat cookiesnya menggunakan cookie editor :
+Mari lihat cookiesnya menggunakan ektensi cookie editor :
 
 ![Foresty Hacker Class - Google Chrome 15_06_2023 15_03_06](https://github.com/mirandadewi/CTF-Write-Up/assets/136687271/7793f1c2-fb87-4415-a419-8ebe6b89b814)
 
