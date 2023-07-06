@@ -22,4 +22,4 @@ masukkan kode rahasia tadi dengan menggunakan tools " dencode.com "
 dan di temukan flagnya 
 
 # Flag
-ForestyHC{ju5ttt_b45iCC_st3g0}
+**ForestyHC{ju5ttt_b45iCC_st3g0}**
