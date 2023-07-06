@@ -23,4 +23,4 @@ setelah di ubah dan di import, file bisa dibuka dan ditemukan sebuah gambar bese
 ![image](https://github.com/mirandadewi/CTF-Write-Up/assets/136687271/ffee985d-8314-403d-bf1c-b5ef7c96ad13)
 
 # Flag
-ForestyHC{f0rensh33sh_isnt_th4t_h4rdzz_h0h0_ef233c}
+**ForestyHC{f0rensh33sh_isnt_th4t_h4rdzz_h0h0_ef233c}**
