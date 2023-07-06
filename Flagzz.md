@@ -26,4 +26,4 @@ analisis file tadi dengan menggunakan tools "wireshark" dan pilihlah menu HTTP d
 ![image](https://github.com/mirandadewi/CTF-Write-Up/assets/136687271/86dd1941-c65c-42ac-b202-eb4e43d6b3e6)
 
 # Flag
-ForestyHC{h3h3_u_f0und_m3_btw_infokan_libur_smt_a12e47}
+**ForestyHC{h3h3_u_f0und_m3_btw_infokan_libur_smt_a12e47}**
